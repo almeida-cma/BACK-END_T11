@@ -105,3 +105,5 @@ Abra seu navegador e acesse:
 4. Crie uma solicitação, acompanhe o status no **Histórico**.
 
 ---
+
+LINK PARA REGISTRO DE ENVIO E APOIOS: https://forms.gle/tsKJ4zT3nzFCnPHh7
